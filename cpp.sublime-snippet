@@ -85,12 +85,10 @@ int main() {
 #endif
     fastio();
     int tt = 1;
-  $3  cin >> tt;
+  $1  cin >> tt;
     while(tt--) solve();
     return 0;
 }
-
-$1
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>cpp</tabTrigger>
