@@ -76,7 +76,7 @@ template <class T> T lcm(T a, T b){return (a*b)/gcd<T>(a, b);}
 const ll infl = 1e18; const int inf = 1e9 + 5;
 
 void solve(){
-    $2
+    $0
 }
 
 int main() {
